@@ -15,16 +15,6 @@
 
 ---
 
-## 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=emirhandemirbasa&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🔥 Commit Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=emirhandemirbasa&theme=merko&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ## 🚀 Kullandığım Diller ve Araçlar
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -38,9 +28,11 @@
 ---
 
 ## 📫 Bana Ulaşın
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com)
-[![E-posta](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:mail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emirhan-demirba%C5%9Fa-905664297/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/emirhan.demirbasa/)
+[![E-posta](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:emirhanlife@gmail.com)
+[![Web Sitem](https://img.shields.io/badge/-Web%20Sitem-000?logo=About.me&logoColor=white)](https://www.emirhandemirbasa.com)
+
 
 ---
 
