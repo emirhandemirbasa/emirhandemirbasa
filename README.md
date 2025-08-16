@@ -17,23 +17,25 @@
 
 ## 🚀 Kullandığım Diller ve Araçlar
 ## 🚀 Kullandığım Diller ve Araçlar
-![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-000?&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js&logoColor=white)
+## 🚀 Kullandığım Diller ve Araçlar
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+
 
 
 ---
