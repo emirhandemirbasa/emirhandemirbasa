@@ -7,14 +7,6 @@
 
 ---
 
-## 📊 GitHub İstatistikleri
-<a href="https://github.com/emirhandemirbasa">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=emirhandemirbasa&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhandemirbasa&layout=compact&langs_count=7&theme=merko"/>
-</a>
-
----
-
 ## 🚀 Kullandığım Diller ve Araçlar
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
